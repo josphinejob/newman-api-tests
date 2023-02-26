@@ -1,6 +1,7 @@
 # newman-nodejs
 Run Postman tests with Newman and Node.js
-Reporter : newman-reporter-htmlextra
+
+* Reporter : newman-reporter-htmlextra
 
 
 To run all collections from the collections directory:
